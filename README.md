@@ -1,4 +1,4 @@
-# Django + vue + mysql 实现书籍查找
+# Django + vue + mysql 实现书籍列表添加
 
 - 本篇实战示例，使用Vue.js作为前端框架，代替Django本身自带的模板引擎，Django则作为服务端提供API接口，从而实现前后端分离。
 ![](前端页面.PNG)
