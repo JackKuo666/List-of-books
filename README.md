@@ -1,7 +1,7 @@
 # Django + vue + mysql 实现书籍查找
 
 - 本篇实战示例，使用Vue.js作为前端框架，代替Django本身自带的模板引擎，Django则作为服务端提供API接口，从而实现前后端分离。
-
+![](前端页面.PNG)
 
 - 参考：[Python 3+Django 3 结合Vue.js框架构建前后端分离Web开发平台实战
 ](https://blog.csdn.net/lantian_123/article/details/103750347)
